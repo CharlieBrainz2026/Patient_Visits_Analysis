@@ -1,0 +1,4 @@
+age_group,icd_code,diagnosis_count
+18-39,F32.9,6
+40-64,E78.5,10
+65+,I10,10
