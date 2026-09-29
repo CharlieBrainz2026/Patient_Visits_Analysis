@@ -33,16 +33,27 @@ Dataset
 
 
 🎯 **Business Questions**
+
 The analysis answers the following business questions:
+
 What is the total number of patient visits?
+
 How many unique patients are represented in the dataset?
+
 What is the youngest patient age?
+
 What is the oldest patient age?
+
 What is the gender distribution of visits?
+
 How are visits distributed across different age groups?
+
 What are the Top 10 diagnoses?
+
 What are the most common diagnoses within each age group?
+
 What are the most common diagnoses by gender?
+
 What are the Top 10 CPT codes?
 
 
