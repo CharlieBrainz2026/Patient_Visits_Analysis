@@ -5,7 +5,7 @@
 This project demonstrates an end-to-end healthcare data analysis workflow, using SQL for data cleaning, exploration, analysis, and business-question answering, followed by Power BI dashboard development to communicate the findings visually.
 The project focuses on patient visits, demographics, diagnoses, and CPT (Current Procedural Terminology) codes.
 
-📌 Project Overview
+📌 **Project Overview**
 Healthcare organizations generate large amounts of patient and visit data. Analyzing this information can help identify patterns in patient demographics, diagnoses, healthcare utilization, and medical procedures.
 In this project, I use SQL and Power BI to transform raw healthcare data into meaningful business insights.
 
@@ -22,7 +22,7 @@ Export SQL analysis results for visualization
 Build an interactive Power BI dashboard
 Document the complete analysis workflow for GitHub
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 SQL
 MySQL
 MySQL Workbench
@@ -30,10 +30,9 @@ Power BI
 GitHub
 Dataset
 200 patient visit records
----
 
 
-🎯 Business Questions
+🎯 **Business Questions**
 The analysis answers the following business questions:
 What is the total number of patient visits?
 How many unique patients are represented in the dataset?
@@ -47,7 +46,7 @@ What are the most common diagnoses by gender?
 What are the Top 10 CPT codes?
 
 
-🔄 Project Approach / Methodology
+🔄 **Project Approach / Methodology**
 1. Data Exploration
 The dataset was first explored to understand:
 Number of records
@@ -58,7 +57,7 @@ Diagnosis information
 CPT codes
 Data types
 Potential data-quality issues
----
+
 
 2. Data Cleaning
 SQL was used to prepare the dataset for analysis.
@@ -69,7 +68,6 @@ Reviewing data types
 Standardizing values where necessary
 Validating patient and visit information
 Preparing the data for analysis and visualization
----
 
 3. Exploratory Data Analysis
 SQL queries were developed to investigate patient visits and identify patterns within the healthcare data.
@@ -83,7 +81,7 @@ CPT code analysis
 Age-group analysis
 Gender-based analysis
 
-🧠 Advanced SQL Techniques**
+🧠 **Advanced SQL Techniques**
 The project demonstrates the use of several SQL techniques, including:
 SELECT
 WHERE
@@ -104,9 +102,9 @@ Ranking and Top-N analysis
 Joins where required
 Window functions where applicable
 These techniques were used to transform raw healthcare data into analysis-ready information and answer specific business questions.
----
 
-📈 Key Analysis Areas
+
+📈** Key Analysis Areas**
 Patient Visits
 Analysis of the overall number of healthcare visits and patient activity.
 Patient Demographics
@@ -122,9 +120,9 @@ Top diagnoses by age group
 Top diagnoses by gender
 CPT Code Analysis
 Identification of the most frequently occurring CPT codes to understand the medical procedures represented in the dataset.
----
 
-📊 Power BI Dashboard
+
+📊 **Power BI Dashboard**
 The SQL analysis was used as the foundation for a Power BI dashboard designed to present the key findings in an easy-to-understand visual format.
 Dashboard areas include:
 Total Visits
@@ -137,9 +135,9 @@ Diagnosis by Age Group
 Diagnosis by Gender
 Top CPT Codes
 The dashboard allows the analysis to be communicated to non-technical stakeholders through interactive visualizations.
----
 
-💡 Key Findings
+
+💡 **Key Findings**
 The analysis provides insights into:
 Overall healthcare visit volume
 Patient demographic distribution
@@ -150,4 +148,3 @@ Diagnosis patterns across different age groups
 Diagnosis patterns across genders
 Most frequently recorded CPT codes
 > Detailed findings and visualizations are presented in the Power BI dashboard.
----
