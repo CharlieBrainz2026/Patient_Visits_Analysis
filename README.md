@@ -83,7 +83,7 @@ CPT code analysis
 Age-group analysis
 Gender-based analysis
 
-🧠 Advanced SQL Techniques
+🧠 Advanced SQL Techniques**
 The project demonstrates the use of several SQL techniques, including:
 SELECT
 WHERE
