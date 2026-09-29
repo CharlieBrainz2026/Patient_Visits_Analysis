@@ -104,7 +104,7 @@ Window functions where applicable
 These techniques were used to transform raw healthcare data into analysis-ready information and answer specific business questions.
 
 
-📈** Key Analysis Areas**
+📈**Key Analysis Areas**
 Patient Visits
 Analysis of the overall number of healthcare visits and patient activity.
 Patient Demographics
