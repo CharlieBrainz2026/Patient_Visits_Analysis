@@ -6,10 +6,12 @@ This project demonstrates an end-to-end healthcare data analysis workflow, using
 The project focuses on patient visits, demographics, diagnoses, and CPT (Current Procedural Terminology) codes.
 
 📌 **Project Overview**
+
 Healthcare organizations generate large amounts of patient and visit data. Analyzing this information can help identify patterns in patient demographics, diagnoses, healthcare utilization, and medical procedures.
 In this project, I use SQL and Power BI to transform raw healthcare data into meaningful business insights.
 
 The project demonstrates how to:
+
 Explore and understand a healthcare dataset
 Clean and prepare data using SQL
 Write SQL queries to answer business questions
@@ -36,25 +38,25 @@ Dataset
 
 The analysis answers the following business questions:
 
-What is the total number of patient visits?
+1. What is the total number of patient visits?
 
-How many unique patients are represented in the dataset?
+2. How many unique patients are represented in the dataset?
 
-What is the youngest patient age?
+3. What is the youngest patient age?
 
-What is the oldest patient age?
+4. What is the oldest patient age?
 
-What is the gender distribution of visits?
+5. What is the gender distribution of visits?
 
-How are visits distributed across different age groups?
+6. How are visits distributed across different age groups?
 
-What are the Top 10 diagnoses?
+7. What are the Top 10 diagnoses?
 
-What are the most common diagnoses within each age group?
+8. What are the most common diagnoses within each age group?
 
-What are the most common diagnoses by gender?
+9. What are the most common diagnoses by gender?
 
-What are the Top 10 CPT codes?
+10. What are the Top 10 CPT codes?
 
 
 🔄 **Project Approach / Methodology**
